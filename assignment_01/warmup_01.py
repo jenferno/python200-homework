@@ -109,9 +109,9 @@ class Station:
 station_a = Station(
     'KHOU13',
     'Houston Station',
-    29.65,
-    -95.29,
-    13.2
+    29.98,
+    95.36,
+    27.5
 )
 
 station_b = Station(
