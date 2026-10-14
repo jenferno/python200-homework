@@ -1,5 +1,5 @@
 # Week 2 Mini-Project: Predicting the Daily High
-# City: Atlanta, Georgia
+# City: Houston, Texas
 # Year: 2023
 
 import requests
