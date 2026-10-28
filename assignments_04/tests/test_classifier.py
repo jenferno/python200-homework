@@ -137,7 +137,7 @@ def test_prediction_type(clf):
         'temperature_2m_max': 18,
         'temperature_2m_min': 9,
         'precipitation_sum': 0.0,
-        'wind_speed_10m_max"': 10,
+        'wind_speed_10m_max': 10,
     }
 
     result = clf.predict([day])
